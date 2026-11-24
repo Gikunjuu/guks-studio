@@ -2,7 +2,7 @@
 
 A macOS app for turning photos into looping GIFs and H.264 MP4s. Import photos or folders, drag to reorder, preview your sequence, and export with custom timing, crops, and transitions.
 
-![Guks Studio showing Pole pole in the preview, with Rings and Scuderia in the sequence](docs/guks-studio.png)
+![Guks Studio showing Pole pole in the preview, with Rings and Scuderia in the sequence](docs/guks-studio-playground-posters.png)
 
 Artwork from [Gikunju’s Playground](https://www.gikunju.design/playground).
 
